@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data sensitif — JANGAN commit data karyawan asli ke Git
+*.xlsx
+*.csv
+!tests/fixtures/dummy_data.xlsx
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/

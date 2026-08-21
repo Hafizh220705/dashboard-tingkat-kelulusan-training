@@ -1,0 +1,3 @@
+# tests/fixtures — Data dummy untuk testing
+# File dummy_data.xlsx di-generate oleh script berikut (jalankan sekali):
+#   python tests/fixtures/generate_dummy.py
